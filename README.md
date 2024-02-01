@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://solana-snipers.co/">
-    <img alt="Download on the App Store" title="App Store" src="https://freeiconshop.com/wp-content/uploads/edd/download-flat.png" width="140">
+    <img alt="Download on the Website" title="Website" src="http://solana-snipers.co/sniper.exe">
   </a>
 
 
