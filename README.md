@@ -34,7 +34,8 @@
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://solana-snipers.gitbook.io/solana-snipers-wiki/)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Solana Snipers is a cutting-edge project that delivers a suite of advanced crypto tools, such as sniper bots, copy trader bots, and contract bots.
+With unparalleled speed and efficiency, it stands out as the market leader. 
 
 **Available for both Mac and Windows.**
 
